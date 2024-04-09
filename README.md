@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 [Unveiling Sentiments and Themes in Social Media News using Topic Modelling and LDA](https://github.com/palkast/Unveiling-Sentiments-and-Themes-in-Social-Media-News-using-Topic-Modeling)
 
+## DEEP LEARNING :
+
 [Image Analysis with Deep Learning](https://github.com/palkast/DeepNeuralNetwork_Transfer_Learning_ImageRepresentation)
 
 ## GENERATIVE AI :
