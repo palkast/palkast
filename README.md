@@ -14,7 +14,7 @@ PROJECTS:
 
 [Subscriber prediction for Music App](https://github.com/palkast/Predictive-Analysis-Marketing-Campaign/tree/main)
 
-[Spam Email Detection Data Analysis]
+[Spam Email Detection Data Analysis](https://github.com/palkast/Spam-Email-Detection-Data-Analysis)
 
 [Predicting Interstitial Glucose using Wearable Devices(IOT) using Azure Machine Learning Studio and Azure Data Factory](https://github.com/palkast/team8trendsmarket2023)
 
