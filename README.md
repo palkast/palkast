@@ -10,17 +10,33 @@
 palkast/palkast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-PROJECTS:
+# PROJECTS
+
+## PREDICTIVE ANALYTICS :
 
 [Subscriber prediction for Music App](https://github.com/palkast/Predictive-Analysis-Marketing-Campaign/tree/main)
 
 [Spam Email Detection Data Analysis](https://github.com/palkast/Spam-Email-Detection-Data-Analysis)
 
+## CLUSTERING :
+
+[Client Spending Pattern segmentation](https://github.com/palkast/Client-Spending-Pattern-segmentation)
+
+## BIG DATA ANALYTICS :
+
 [Predicting Interstitial Glucose using Wearable Devices(IOT) using Azure Machine Learning Studio and Azure Data Factory](https://github.com/palkast/team8trendsmarket2023)
+
+## MLOPS :
 
 [Scaling up Gemstone price prediction app using Azure Web App MLOPS GitHub Actions](https://github.com/palkast/mlregression)
 
+## NATURAL LANGUAGE PROCESSING :
+
 [Unveiling Sentiments and Themes in Social Media News using Topic Modelling and LDA](https://github.com/palkast/Unveiling-Sentiments-and-Themes-in-Social-Media-News-using-Topic-Modeling)
+
+[Image Analysis with Deep Learning](https://github.com/palkast/DeepNeuralNetwork_Transfer_Learning_ImageRepresentation)
+
+## GENERATIVE AI :
 
 [Question answer custom Chatbot using LangChain and Streamlit HuggingFace](https://github.com/palkast/LangchainQ-AChatbot_HuggingFace)
 
@@ -30,7 +46,9 @@ PROJECTS:
 
 [Blog Generation using LLAMA2](https://github.com/palkast/Blog_generation_LLM_App_LLAMA2)
 
+## CAUSAL INFERENCE AND STATISTICS :
+
 [Impact of Minimal Requirements on Deal Outcomes using Propensity Score Matching](https://github.com/palkast/Causal-Inference-using-Propensity-Score-Matching)                                                                                      
-[Image Analysis with Deep Learning](https://github.com/palkast/DeepNeuralNetwork_Transfer_Learning_ImageRepresentation)
+
 
 
