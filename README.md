@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kasturi Pal
 - 👀 I’m interested to solve business problems through Data Science, Machine Learning , Generative AI
-- 🌱 I’m currently learning to tell a story and be the voice of customer
+- 🌱 I’m currently learning to tell a story and be the voice of the customer
 - 💞️ I’m looking to collaborate on any cutting edge technology as I have worked on multiple technologies from mainframe till LLM models in AI.
 - 📫 How to reach me : kasturi.pal2010@gmail.com
 - 😄 Pronouns: She/Her
